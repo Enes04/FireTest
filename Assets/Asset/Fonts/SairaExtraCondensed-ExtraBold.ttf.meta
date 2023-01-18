@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: ff76de70e335c63499481d8aed90287b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Saira ExtraCondensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 682453994a205d749be80646b94c2511, type: 3}
+  - {fileID: 12800000, guid: 0208895d0aa4daf499484269e99354e8, type: 3}
+  - {fileID: 12800000, guid: d50cd547e71b8bd4996da4a805584ef0, type: 3}
+  - {fileID: 12800000, guid: a60735b5092af724b8e7ffb521426311, type: 3}
+  - {fileID: 12800000, guid: a38a887b6296c414fa569df01df19dfa, type: 3}
+  - {fileID: 12800000, guid: e503f794702122743882db1763904230, type: 3}
+  - {fileID: 12800000, guid: d0f8059520ea2b742b539fe973d1cdae, type: 3}
+  - {fileID: 12800000, guid: ea16c6919ee32f84bac7fba984d8af42, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
