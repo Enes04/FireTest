@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 9004780333377674055}
   - component: {fileID: 6562764218183364493}
   - component: {fileID: 2902854686665178722}
+  - component: {fileID: 6933355942246757712}
+  - component: {fileID: 2201280833255717920}
   m_Layer: 0
   m_Name: toon_office_pilot_blue
   m_TagString: Untagged
@@ -102,3 +104,33 @@ MonoBehaviour:
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
+--- !u!54 &6933355942246757712
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4617143140117712472}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!64 &2201280833255717920
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4617143140117712472}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2966949017852184400, guid: 1cb06be22fb7c46859badc7b459e5fd8, type: 3}

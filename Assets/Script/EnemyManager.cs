@@ -39,6 +39,7 @@ public class EnemyManager : Health
 
     public void Death()
     {
+        GetComponent<NavMeshAgent>().enabled = false;
         GetComponent<EnemyMovement>().animator.SetTrigger("Death");
         GetComponent<DetectCollider>().dead = true;
         GetComponent<Collider>().enabled = false;

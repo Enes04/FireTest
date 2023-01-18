@@ -8,7 +8,6 @@ public class DetectCollider : MonoBehaviour
     public float distanceDetect;
     public bool lookAt;
     public bool dead;
-
     private void Start()
     {
         layerMask = LayerMask.GetMask("Enemy");
@@ -33,12 +32,16 @@ public class DetectCollider : MonoBehaviour
             for (int i = 0; i < colliders.Length; i++)
             {
                 if (minDist > Vector3.Distance(transform.position, colliders[i].transform.position) &&
-                    colliders[i].GetComponent<Team>().myteam != GetComponent<Team>().myteam)
+                    colliders[i].GetComponent<Team>().myteam != GetComponent<Team>().myteam && !colliders[i].GetComponent<DetectCollider>().dead)
                     nearEnemy = colliders[i].gameObject;
             }
 
-            if (nearEnemy != null && nearEnemy.GetComponent<Team>().myteam != GetComponent<Team>().myteam)
+            if (nearEnemy != null && nearEnemy.GetComponent<Team>().myteam != GetComponent<Team>().myteam && nearEnemy.GetComponent<Collider>().enabled)
                 LookEnemy();
+            else
+            {
+                lookAt = true;
+            }
         }
         else
         {

@@ -106,15 +106,15 @@ NavMeshSettings:
   m_BuildSettings:
     serializedVersion: 2
     agentTypeID: 0
-    agentRadius: 0.5
-    agentHeight: 2
+    agentRadius: 0.64
+    agentHeight: 0.62
     agentSlope: 45
     agentClimb: 0.4
     ledgeDropHeight: 0
     maxJumpAcrossDistance: 0
     minRegionArea: 2
     manualCellSize: 0
-    cellSize: 0.16666667
+    cellSize: 0.21333332
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
@@ -202,6 +202,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_cabinet (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -272,9 +276,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1781760256}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -349,6 +365,10 @@ PrefabInstance:
     - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_Name
       value: toon_office_shelf (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8782294939265448039, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_RootOrder
@@ -425,9 +445,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -494,7 +526,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &59063088
 Transform:
@@ -542,9 +574,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -1006,6 +1050,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_trashbin
       objectReference: {fileID: 0}
+    - target: {fileID: 3339638852232161003, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
 --- !u!4 &108773453 stripped
@@ -1080,6 +1128,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_board
       objectReference: {fileID: 0}
+    - target: {fileID: 8902904784820920504, guid: cd6fb14eee4254287b5f2cb8ecc8e5db, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd6fb14eee4254287b5f2cb8ecc8e5db, type: 3}
 --- !u!4 &122474569 stripped
@@ -1101,7 +1153,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &144168297
 Transform:
@@ -1129,9 +1181,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -1247,7 +1311,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &169623616
 Transform:
@@ -1340,6 +1404,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_trashbin
       objectReference: {fileID: 0}
+    - target: {fileID: 3339638852232161003, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
 --- !u!4 &192434086 stripped
@@ -1363,25 +1431,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_tile_ground_low_4x4 (14)
       objectReference: {fileID: 0}
-    - target: {fileID: 1165081120987911742, guid: 44db3442b975e4903a341e94633313fc, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 1972827015468797060, guid: 44db3442b975e4903a341e94633313fc, type: 3}
       propertyPath: m_RootOrder
       value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 1972827015468797060, guid: 44db3442b975e4903a341e94633313fc, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1972827015468797060, guid: 44db3442b975e4903a341e94633313fc, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1972827015468797060, guid: 44db3442b975e4903a341e94633313fc, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 1972827015468797060, guid: 44db3442b975e4903a341e94633313fc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1435,6 +1487,10 @@ PrefabInstance:
     - target: {fileID: 4617143140117712472, guid: 3a8cf12175ae6400dab162dff4927dc4, type: 3}
       propertyPath: m_Name
       value: toon_office_pilot_blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 4617143140117712472, guid: 3a8cf12175ae6400dab162dff4927dc4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5429286806504428770, guid: 3a8cf12175ae6400dab162dff4927dc4, type: 3}
       propertyPath: m_RootOrder
@@ -1584,7 +1640,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &227539809
 Transform:
@@ -1682,6 +1738,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1719871285797736001, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AngularSpeed
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 1719871285797736001, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1719871285797736058, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -1730,6 +1794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EnemyYellow (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1719871285797736061, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2306113409500727674, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -1744,6 +1812,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3613743723246368379, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1760,9 +1852,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -1908,7 +2012,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &295885366
 Transform:
@@ -2062,9 +2166,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4559150657011629980, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7778219903848572427, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_Name
       value: toon_office_water_drinker
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8942574934595561554, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_RootOrder
@@ -2124,9 +2240,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -2198,9 +2326,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -2345,9 +2485,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 227539809}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -2407,9 +2559,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -2469,9 +2633,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -2543,9 +2719,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -2767,6 +2955,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_cabinet (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -2881,6 +3073,10 @@ PrefabInstance:
     - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_Name
       value: toon_office_cabinet (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
@@ -3012,6 +3208,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_board
       objectReference: {fileID: 0}
+    - target: {fileID: 8902904784820920504, guid: cd6fb14eee4254287b5f2cb8ecc8e5db, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd6fb14eee4254287b5f2cb8ecc8e5db, type: 3}
 --- !u!4 &489379004 stripped
@@ -3026,9 +3226,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -3100,9 +3312,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -3405,6 +3629,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_desk
       objectReference: {fileID: 0}
+    - target: {fileID: 6881907605795576261, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
 --- !u!4 &567519632 stripped
@@ -3419,9 +3647,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -3498,9 +3738,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -3572,9 +3824,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -3719,9 +3983,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1781760256}
     m_Modifications:
+    - target: {fileID: 4559150657011629980, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7778219903848572427, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_Name
       value: toon_office_water_drinker (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8942574934595561554, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_RootOrder
@@ -3789,6 +4065,10 @@ PrefabInstance:
     - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_Name
       value: toon_office_cabinet (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
@@ -3860,9 +4140,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -3934,9 +4226,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -4081,9 +4385,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4559150657011629980, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7778219903848572427, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_Name
       value: toon_office_water_drinker
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8942574934595561554, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_RootOrder
@@ -4314,6 +4630,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_shelf
       objectReference: {fileID: 0}
+    - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8782294939265448039, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -4384,9 +4704,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 808761209}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -4463,9 +4795,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -4618,9 +4962,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -4680,9 +5036,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -4864,6 +5232,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_chair
       objectReference: {fileID: 0}
+    - target: {fileID: 4907499685619757410, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -4941,7 +5313,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &808761209
 Transform:
@@ -5039,6 +5411,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 40990863696722140, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 40990863696722140, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 40990863696722140, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366239128893630744, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366239128893630744, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366239128893630744, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5600018458462574366, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -5058,6 +5454,10 @@ PrefabInstance:
     - target: {fileID: 8820725523611832345, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
       propertyPath: m_Name
       value: EnemyRed (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820725523611832345, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8820725523611832350, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
       propertyPath: m_RootOrder
@@ -5103,6 +5503,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8820725523611832357, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AngularSpeed
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820725523611832357, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
 --- !u!1001 &827633927
@@ -5112,6 +5520,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 40990863696722140, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 40990863696722140, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 40990863696722140, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366239128893630744, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366239128893630744, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366239128893630744, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5600018458462574366, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -5131,6 +5563,10 @@ PrefabInstance:
     - target: {fileID: 8820725523611832345, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
       propertyPath: m_Name
       value: EnemyRed (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820725523611832345, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8820725523611832350, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
       propertyPath: m_RootOrder
@@ -5175,6 +5611,14 @@ PrefabInstance:
     - target: {fileID: 8820725523611832350, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820725523611832357, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_AngularSpeed
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820725523611832357, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
@@ -5346,9 +5790,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -5424,6 +5880,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_pilot_red
       objectReference: {fileID: 0}
+    - target: {fileID: 7162311903120173922, guid: f13b72967b20549d5aff589765bc47c2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7507065270716330456, guid: f13b72967b20549d5aff589765bc47c2, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -5485,6 +5945,10 @@ PrefabInstance:
     - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_Name
       value: toon_office_shelf (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8782294939265448039, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_RootOrder
@@ -5679,6 +6143,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_cabinet (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -5749,9 +6217,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -5818,7 +6298,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1004588227
 Transform:
@@ -5993,6 +6473,10 @@ PrefabInstance:
     - target: {fileID: 3339638852232161003, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
       propertyPath: m_Name
       value: toon_office_trashbin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339638852232161003, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
@@ -6171,6 +6655,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_trashbin
       objectReference: {fileID: 0}
+    - target: {fileID: 3339638852232161003, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
 --- !u!4 &1073843241 stripped
@@ -6258,9 +6746,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -6335,6 +6835,10 @@ PrefabInstance:
     - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_Name
       value: toon_office_shelf
+      objectReference: {fileID: 0}
+    - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8782294939265448039, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_RootOrder
@@ -6479,9 +6983,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -6553,9 +7069,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -6615,6 +7143,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1719871285797736001, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AngularSpeed
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 1719871285797736001, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1719871285797736058, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -6663,6 +7199,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EnemyYellow (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1719871285797736061, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2306113409500727674, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -6677,6 +7217,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3613743723246368379, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6688,9 +7252,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -6750,9 +7326,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -6829,9 +7417,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1781760256}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -7011,9 +7611,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -7089,6 +7701,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_cabinet (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -7159,9 +7775,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -7238,18 +7866,6 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6109874162769150847, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6109874162769150847, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6109874162769150847, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6109874162769150847, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.64111996
       objectReference: {fileID: 0}
@@ -7293,6 +7909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_desk
       objectReference: {fileID: 0}
+    - target: {fileID: 6881907605795576261, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
 --- !u!4 &1273588970 stripped
@@ -7307,9 +7927,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -7369,9 +8001,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -7439,6 +8083,10 @@ PrefabInstance:
     - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_Name
       value: toon_office_cabinet (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
@@ -7510,9 +8158,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4559150657011629980, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7778219903848572427, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_Name
       value: toon_office_water_drinker
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8942574934595561554, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_RootOrder
@@ -7572,9 +8232,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4559150657011629980, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7778219903848572427, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_Name
       value: toon_office_water_drinker (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8942574934595561554, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_RootOrder
@@ -7709,18 +8381,6 @@ PrefabInstance:
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2671504821341944913, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2671504821341944913, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2671504821341944913, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2671504821341944913, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.5
       objectReference: {fileID: 0}
@@ -7764,6 +8424,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_trashbin
       objectReference: {fileID: 0}
+    - target: {fileID: 3339638852232161003, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
 --- !u!4 &1392817762 stripped
@@ -7778,9 +8442,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -7855,6 +8531,10 @@ PrefabInstance:
     - target: {fileID: 4907499685619757410, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_Name
       value: toon_office_chair
+      objectReference: {fileID: 0}
+    - target: {fileID: 4907499685619757410, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_RootOrder
@@ -8111,7 +8791,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1457625136
 Transform:
@@ -8162,6 +8842,10 @@ PrefabInstance:
     - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_Name
       value: toon_office_cabinet (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
@@ -8233,9 +8917,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4559150657011629980, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7778219903848572427, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_Name
       value: toon_office_water_drinker (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8942574934595561554, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_RootOrder
@@ -8295,9 +8991,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1781760256}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -8429,6 +9137,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_trashbin
       objectReference: {fileID: 0}
+    - target: {fileID: 3339638852232161003, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf1977f578304690ac5aa8eec474446, type: 3}
 --- !u!4 &1522839236 stripped
@@ -8455,7 +9167,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1532235502
 Transform:
@@ -8485,9 +9197,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -8547,9 +9271,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -8621,25 +9357,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1532235502}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
       objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
       value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8695,9 +9431,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -8834,6 +9582,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_chair
       objectReference: {fileID: 0}
+    - target: {fileID: 4907499685619757410, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -8895,6 +9647,10 @@ PrefabInstance:
     - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_Name
       value: toon_office_shelf
+      objectReference: {fileID: 0}
+    - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8782294939265448039, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_RootOrder
@@ -8970,6 +9726,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_cabinet (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -9040,9 +9800,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 144168297}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -9114,9 +9886,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -9176,14 +9960,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 227539809}
     m_Modifications:
-    - target: {fileID: 1673599321, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
-      propertyPath: outlineMode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1673599321, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
-      propertyPath: outlineWidth
-      value: 1.26
-      objectReference: {fileID: 0}
     - target: {fileID: 6109874162769150847, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -9232,6 +10008,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_desk
       objectReference: {fileID: 0}
+    - target: {fileID: 6881907605795576261, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
 --- !u!4 &1673599319 stripped
@@ -9246,9 +10026,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -9320,9 +10112,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -9382,9 +10186,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -9459,6 +10275,10 @@ PrefabInstance:
     - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_Name
       value: toon_office_shelf (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8262744240771097309, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8782294939265448039, guid: c6a74e87f5c7347a09e0ce6ff9643e10, type: 3}
       propertyPath: m_RootOrder
@@ -9537,7 +10357,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1781760256
 Transform:
@@ -9574,9 +10394,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -9639,6 +10471,10 @@ PrefabInstance:
     - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_Name
       value: toon_office_cabinet (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
@@ -9710,9 +10546,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -9772,9 +10620,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -9846,9 +10706,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -9923,6 +10795,10 @@ PrefabInstance:
     - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_Name
       value: toon_office_cabinet (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
@@ -9999,9 +10875,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_bookcover (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -10073,9 +10961,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1004588227}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -10150,6 +11050,10 @@ PrefabInstance:
     - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_Name
       value: toon_office_cabinet (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2799242785918641492, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3284031049561096174, guid: 436d6c6ad13444243927518c3405f6ea, type: 3}
       propertyPath: m_RootOrder
@@ -10280,6 +11184,10 @@ PrefabInstance:
     - target: {fileID: 6881907605795576261, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
       propertyPath: m_Name
       value: toon_office_desk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6881907605795576261, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
@@ -10470,9 +11378,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 295885366}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -10609,6 +11529,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_board
       objectReference: {fileID: 0}
+    - target: {fileID: 8902904784820920504, guid: cd6fb14eee4254287b5f2cb8ecc8e5db, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd6fb14eee4254287b5f2cb8ecc8e5db, type: 3}
 --- !u!4 &1955574413 stripped
@@ -10682,6 +11606,10 @@ PrefabInstance:
     - target: {fileID: 6881907605795576261, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
       propertyPath: m_Name
       value: toon_office_desk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6881907605795576261, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
@@ -10761,6 +11689,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_desk
       objectReference: {fileID: 0}
+    - target: {fileID: 6881907605795576261, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d0f11df00a954898acb314f59db9866, type: 3}
 --- !u!4 &2018455867 stripped
@@ -10778,6 +11710,10 @@ PrefabInstance:
     - target: {fileID: 4907499685619757410, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_Name
       value: toon_office_chair
+      objectReference: {fileID: 0}
+    - target: {fileID: 4907499685619757410, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_RootOrder
@@ -10853,21 +11789,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_chair
       objectReference: {fileID: 0}
+    - target: {fileID: 4907499685619757410, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10945,6 +11873,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toon_office_chair
       objectReference: {fileID: 0}
+    - target: {fileID: 4907499685619757410, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5715384973331311576, guid: d8e62113aeeee43d183ac5185ed7cb83, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -11015,9 +11947,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 59063088}
     m_Modifications:
+    - target: {fileID: 4559150657011629980, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7778219903848572427, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_Name
       value: toon_office_water_drinker (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597855651660641000, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8942574934595561554, guid: 63592b06c95d24828ac0c0891a5cb176, type: 3}
       propertyPath: m_RootOrder
@@ -11077,6 +12021,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1867414986390792961, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867414986390792961, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867414986390792961, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156071502621981381, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156071502621981381, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156071502621981381, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5110154864027810754, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -11141,6 +12109,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: EnemyBlue (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7138847323477984196, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7138847323477984248, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AngularSpeed
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 7138847323477984248, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
 --- !u!1001 &2077245991
@@ -11150,9 +12130,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1457625136}
     m_Modifications:
+    - target: {fileID: 934387606514279261, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284339069795499469, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_Name
       value: toon_office_vase (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070418075575626771, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6878586247019493033, guid: 74da833b5bb7c425390b7e2f8e7dbbe8, type: 3}
       propertyPath: m_RootOrder
@@ -11548,9 +12540,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 169623616}
     m_Modifications:
+    - target: {fileID: 4851598963047350687, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520831733718747273, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_Name
       value: toon_office_book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586645781547976933, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8962783884462150239, guid: 2ac7e6eb682174e7f8af567817914142, type: 3}
       propertyPath: m_RootOrder
@@ -11622,6 +12626,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1719871285797736001, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AngularSpeed
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 1719871285797736001, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1719871285797736058, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -11670,6 +12682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EnemyYellow
       objectReference: {fileID: 0}
+    - target: {fileID: 1719871285797736061, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2306113409500727674, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -11684,6 +12700,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3613743723246368379, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5575780695589074812, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864998033550304952, guid: 11348c63b70f5f04ab53c6c94e5675fd, type: 3}
+      propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -11758,6 +12798,10 @@ PrefabInstance:
     - target: {fileID: 8820725523611832350, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820725523611832357, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 786a220795042634bb50d1d0f59dbc69, type: 3}
@@ -11841,6 +12885,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1867414986390792961, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867414986390792961, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867414986390792961, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156071502621981381, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156071502621981381, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156071502621981381, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5110154864027810754, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -11904,6 +12972,18 @@ PrefabInstance:
     - target: {fileID: 7138847323477984196, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
       propertyPath: m_Name
       value: EnemyBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 7138847323477984196, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7138847323477984248, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_AngularSpeed
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 7138847323477984248, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7cb0f4e0612608e479fcdb1666949bfe, type: 3}
@@ -12006,6 +13086,18 @@ PrefabInstance:
       propertyPath: m_MaxValue
       value: 200
       objectReference: {fileID: 0}
+    - target: {fileID: 1912854746971075886, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1912854746971075886, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1912854746971075886, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2051522137659422267, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -12048,6 +13140,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4161520147158233303, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
       propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237010164199793898, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237010164199793898, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237010164199793898, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
+      propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4296898429921392057, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
@@ -12185,6 +13289,10 @@ PrefabInstance:
     - target: {fileID: 6950163193936633323, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6950163193936633323, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6950163193936633323, guid: 5547a8fd8328b2b43b536692555aa42c, type: 3}
       propertyPath: m_TagString

@@ -33,7 +33,6 @@ public class EnemyMovement : MonoBehaviour
                     if (RandomPoint(Vector3.zero, detectCollider.distanceDetect, out point)) 
                     {
                         navMeshAgent.SetDestination(point);
-                        
                         animator.SetFloat("Speed", navMeshAgent.speed);
                         Quaternion rot =
                             Quaternion.LookRotation(-transform.position + point);
